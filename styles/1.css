@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: blue;
+}
+
+footer{
+    background-color: red;
+    height: 15vh;
+}
+
+section{
+    background-color: chocolate;
+}
+
+main{
+    background-color: aqua;
+    height: 20vh;
+    
+}
